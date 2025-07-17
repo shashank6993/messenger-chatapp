@@ -262,5 +262,5 @@ messenger-chatapp/
 
 ## Contact
 
-For questions or support, reach out to [Rishabh Maurya](mailto:rishabhmaurya7654@gmail.com).
+For questions or support, reach out to [Shashank Chaudhary](mailto:shashank272004@gmail.com@gmail.com).
 
