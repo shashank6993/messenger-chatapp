@@ -10,8 +10,6 @@ To learn more about Real-time Chat Messenger WebApp App and see a walkthrough of
 
 [![alt text](https://github.com/user-attachments/assets/e01e09d3-7e32-49ad-93d0-6f8212dfa810)](https://youtu.be/iZ6LuqkmKlo)
 
-## Deployed on Vercel :  [Chat Messenger](https://realtime-chatapp-nu.vercel.app/)
-
 
 ## Features
 
